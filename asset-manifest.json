@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/edsonwade/robotsfriends.git/static/css/main.0527f1b5.chunk.css",
+    "main.js": "/edsonwade/robotsfriends.git/static/js/main.e1340597.chunk.js",
+    "main.js.map": "/edsonwade/robotsfriends.git/static/js/main.e1340597.chunk.js.map",
+    "runtime-main.js": "/edsonwade/robotsfriends.git/static/js/runtime-main.b9844206.js",
+    "runtime-main.js.map": "/edsonwade/robotsfriends.git/static/js/runtime-main.b9844206.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/edsonwade/robotsfriends.git/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.f3ce8d3e.chunk.js": "/edsonwade/robotsfriends.git/static/js/2.f3ce8d3e.chunk.js",
+    "static/js/2.f3ce8d3e.chunk.js.map": "/edsonwade/robotsfriends.git/static/js/2.f3ce8d3e.chunk.js.map",
+    "static/js/3.5544d60d.chunk.js": "/edsonwade/robotsfriends.git/static/js/3.5544d60d.chunk.js",
+    "static/js/3.5544d60d.chunk.js.map": "/edsonwade/robotsfriends.git/static/js/3.5544d60d.chunk.js.map",
+    "index.html": "/edsonwade/robotsfriends.git/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/edsonwade/robotsfriends.git/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.0527f1b5.chunk.css.map": "/edsonwade/robotsfriends.git/static/css/main.0527f1b5.chunk.css.map",
+    "static/js/2.f3ce8d3e.chunk.js.LICENSE.txt": "/edsonwade/robotsfriends.git/static/js/2.f3ce8d3e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/edsonwade/robotsfriends.git/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9844206.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.f3ce8d3e.chunk.js",
+    "static/css/main.0527f1b5.chunk.css",
+    "static/js/main.e1340597.chunk.js"
+  ]
+}
